@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "description": "Verified installed VC7.1 13.10.3077 and CoD:UO SDK library mix; automatic downloads unavailable.",
+  "provenance": {
+    "compiler_crt_kernel32": "Visual Studio .NET 2003, build 3077",
+    "headers": "VC7.1 and August 2001 Platform SDK",
+    "opengl32_glu32_winmm_gdi32": "February 2003 Platform SDK / VS .NET 2003, import-library build 2179",
+    "user32": "July 2002 Platform SDK, import-library build 2067"
+  },
+  "tools": {
+    "bin/cl.exe": "2ecf86a3edfd3deae498e08298e210e984537ce9e11759930561e43f40bd2515",
+    "bin/link.exe": "0d5f9712d0da843d787bf4ce4e678abc6b737940996706b2c86101eac9df3e3c",
+    "bin/lib.exe": "3892c55821f628961ebf177537fdb002f3423166ead89c3aa7bc2ea1419fe1eb",
+    "lib/libc.lib": "25f494ca0238ae308edeab90dfaaa8c616b12f804a2156b51b9fba50eb144af1",
+    "lib/libcmt.lib": "6e2b3742e58245de52149137f64281b73db1487a07a31e165fff269fbf9b2ee8",
+    "lib/oldnames.lib": "ace6ebf2ef319936a64b7e1a27f508a2c03c4838908f12e790b6c198845cc6cb",
+    "lib/kernel32.lib": "4c6f8667c02e990c496b1054429e01f3d7d1160323ac46b7771013ceaa4cb389"
+  },
+  "sdk": {
+    "lib/opengl32.lib": "87c245bac5172894e4748d2bb40a16dbfe8ff68123d394c6d4f2d8c6c383aa05",
+    "lib/glu32.lib": "94ecef35f8103431e64c616906ab0b8f46d1ea277906429b0c09949974a1d2c5",
+    "lib/winmm.lib": "fcee69d2bdcb20e77a88ad30fb73eeda4c08982ca8b3ba857313ec77a1000044",
+    "lib/user32.lib": "0e3b9285cbdc030fdd124c9f45fa522e9f8d2476bfc383c6d17257be56000de2",
+    "lib/gdi32.lib": "52afc34ebfb1ee7b699cf3f36da11b963db1a754a725437c48c4c1f082b5041b"
+  }
+}
